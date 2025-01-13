@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App from "./App9.tsx";
+import App from "./App10.tsx";
 
 ReactDOM.createRoot(document.getElementById("root") as any).render(<App />);
 
